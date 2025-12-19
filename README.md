@@ -76,8 +76,8 @@ This project is licensed under the **GPL v3 License** - see the [LICENSE](LICENS
 
 <div align="center">
 
-**Made with ❤️ by [Kurosar](https://github.com/Kurosar)**
+**Made with ❤️ by [Odessa](https://github.com/odessadraekavik)**
 
-[⭐ **Star this repo**](https://github.com/Kurosar/FOVCalculator) if you find it useful!
+[⭐ **Star this repo**](https://github.com/odessadraekavik/FOVCalculator) if you find it useful!
 
 </div>
