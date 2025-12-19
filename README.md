@@ -9,7 +9,7 @@
 
 A beautiful, modern FOV (Field of View) calculator with **bidirectional conversion** for gaming and display configuration.
 
-[🚀 **Try it Live**](https://kurosar.github.io/FOVCalculator/) • [🐛 **Report Bug**](https://github.com/Kurosar/FOVCalculator/issues)
+[🚀 **Try it Live**](https://odessadraekavik.github.io/FOVCalculator/) • [🐛 **Report Bug**](https://github.com/Kurosar/FOVCalculator/issues)
 
 ![FOV Calculator Screenshot](https://i.imgur.com/Cqf1310.png)
 
@@ -31,7 +31,7 @@ A beautiful, modern FOV (Field of View) calculator with **bidirectional conversi
 ## 🚀 Quick Start
 
 ### **Instant Use (No Installation)**
-1. **[Open the calculator](https://kurosar.github.io/FOVCalculator/)** in your browser
+1. **[Open the calculator](https://odessadraekavik.github.io/FOVCalculator/)** in your browser
 2. **Click** the resolution card to select your display
 3. **Adjust** FOV sliders to your preference
 4. **Copy** the calculated values to your game settings
